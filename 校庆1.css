@@ -25,19 +25,35 @@
  	position: relative;
  	left: 80px;
  }
+ .box2 h1 
+ {
+ 	color: pink;
+ }
+ .box2 h2
+ {
+ 	color: pink;
+ }
  .box3
  {
   position: relative;
   top: -1850px;
   left: 30px;
  }
- .box3 p
+ .box3 h3 
  {
-   color:black;
+ 	color: pink;
+ }
+ .box3 p 
+ {
+   color:pink;
 
  }
  .box3 a  p
  {
  	font-family: 华文楷体;
+ }
+ .box3  a
+ {
+ 	color: pink;
  }
  
